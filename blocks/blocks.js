@@ -74,7 +74,7 @@ Blockly.defineBlocksWithJsonArray([
   ],
   "output": "Number",
   "colour": "#004098",
-  "tooltip": "",
-  "helpUrl": ""
+  "tooltip": "Attach your Ultrasonic to Input, Output Pins",
+  "helpUrl": "https://tektecheg.github.io"
 }
 ]);
